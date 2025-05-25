@@ -95,10 +95,14 @@ Based on the F1-score, the BiLSTM model is identified as the best performing mod
 
 On the Kaggle competition leaderboard (see kaggle_score.png), the best performing model achieved a respectable public score of 0.78026. This indicates that the chosen model and preprocessing steps were effective in generalizing to unseen data, but improvements could be made.
 
-![image](https://github.com/user-attachments/assets/6194f137-7098-4e66-a82f-16f75020e790)
-![image](https://github.com/user-attachments/assets/6b1a6ff7-afe2-40c0-bedc-b9e6f025b7f5)
-![image](https://github.com/user-attachments/assets/ed051e68-bd02-4b2a-b83a-f154b2ae352b)
-![image](https://github.com/user-attachments/assets/01c29759-137b-4464-be1f-7469eb5b2db0)
+![image](https://github.com/user-attachments/assets/62717a17-98a2-42a9-a691-2a943664d2e6)
+
+![image](https://github.com/user-attachments/assets/264af1ea-9552-4a29-9b3a-0cb92dff8b44)
+
+![image](https://github.com/user-attachments/assets/207b326e-e5c9-44b4-b803-d6ce773ad537)
+
+![image](https://github.com/user-attachments/assets/a85206f8-f8df-4e28-ba1c-8b66c70cd96d)
+
 ![image](https://github.com/user-attachments/assets/06d35d46-9eee-4c32-907c-72718e6fb2ed)
 
 # Other models
@@ -139,10 +143,10 @@ Comparing the supervised models to the RNN models generally, the RNN models exhi
 
 Among the traditional supervised models, the SVC model appears to be the best performing based on the F1-score (0.7455). However, comparing this to the best performing RNN model, the BiLSTM (F1-score of 0.7715), the BiLSTM model still holds an advantage. The BiLSTM's ability to process sequences bidirectionally and capture long-range dependencies likely contributes to this superior performance on the tweet classification task.
 
-![image](https://github.com/user-attachments/assets/a11e84d9-cd93-44ba-b248-0bde53c907a8)
-![image](https://github.com/user-attachments/assets/a82a955f-c169-4a34-9180-c204280ee36a)
-![image](https://github.com/user-attachments/assets/cb8903ad-cbf6-40e0-850a-ff095d134824)
-![image](https://github.com/user-attachments/assets/028a8e65-8fd9-447d-b2d4-02251ed9840f)
+![image](https://github.com/user-attachments/assets/41f968af-1764-4080-96a0-aaa50589713d)
+![image](https://github.com/user-attachments/assets/fd4d77ff-0d6f-4789-9c65-8ac86cf6642e)
+![image](https://github.com/user-attachments/assets/ac86f646-cc3e-4632-890b-c0e511ad74b2)
+![image](https://github.com/user-attachments/assets/4eb4cea8-0ca7-4754-bac0-51bbf1b131d2)
 
 # Conclusion
 
